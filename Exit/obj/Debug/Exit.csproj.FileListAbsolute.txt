@@ -1,0 +1,7 @@
+C:\Users\smail\source\repos\Exit\Exit\bin\Debug\Exit.exe.config
+C:\Users\smail\source\repos\Exit\Exit\bin\Debug\Exit.exe
+C:\Users\smail\source\repos\Exit\Exit\bin\Debug\Exit.pdb
+C:\Users\smail\source\repos\Exit\Exit\obj\Debug\Exit.csproj.AssemblyReference.cache
+C:\Users\smail\source\repos\Exit\Exit\obj\Debug\Exit.csproj.CoreCompileInputs.cache
+C:\Users\smail\source\repos\Exit\Exit\obj\Debug\Exit.exe
+C:\Users\smail\source\repos\Exit\Exit\obj\Debug\Exit.pdb
